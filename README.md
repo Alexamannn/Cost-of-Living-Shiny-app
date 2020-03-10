@@ -9,7 +9,7 @@
 
 ```R
 # first install the R package "devtools" if not installed (install.packages("devtools")
-devtools::install_github('unimi-dse/ea34b421')
+devtools::install_github('Alexamannn/Cost-of-Living-Shiny-app')
 ```
 
 <h2> Usage</h2>
