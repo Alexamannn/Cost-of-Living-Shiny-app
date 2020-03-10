@@ -22,7 +22,7 @@ require(citycostanalysis)
 
 <h3> Functions </h3>
 <p> Run the Shiny  application. </p>
-<li><code> sampleGui() </code></li>
+<li><code> sampleGUI() </code></li>
 
 
 <h2> Technologies </h2>
