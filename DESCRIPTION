@@ -2,8 +2,8 @@ Package: citycostanalysis
 Type: Package
 Title: Cost of Living Comparison
 Version: 0.1.0
-Author: Natalia Kartasheva
-Maintainer: Natalia Kartasheva <natalia.kartasheva@unimi.it>
+Author: Alex Aman
+Maintainer:Alex Aman <amanismyname@gmail.com>
 Description: This app helps in comparing cost of living in different major cities of the world and also visualizes with Graph
 License: Open
 Encoding: UTF-8
