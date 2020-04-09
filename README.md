@@ -1,4 +1,4 @@
-# ea34b421
+
 
 <h1 align="center">Cost of Living in Major Cities of World </h1>
 <p> This app helps in checking various cost and expenses incured in different cities of the world and also helps in comparing among different cities 
